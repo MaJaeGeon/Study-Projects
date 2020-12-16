@@ -1,0 +1,12 @@
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\bin\Debug\SampleEntityFramework.exe.config
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\bin\Debug\SampleEntityFramework.exe
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\bin\Debug\SampleEntityFramework.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\obj\Debug\SampleEntityFramework.csprojAssemblyReference.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\obj\Debug\SampleEntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\obj\Debug\SampleEntityFramework.csproj.CopyComplete
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\obj\Debug\SampleEntityFramework.exe
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\SampleEntityFramework\SampleEntityFramework\obj\Debug\SampleEntityFramework.pdb
