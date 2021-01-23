@@ -1,0 +1,38 @@
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\bin\Debug\netcoreapp3.1\Study03.exe
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\bin\Debug\netcoreapp3.1\Study03.deps.json
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\bin\Debug\netcoreapp3.1\Study03.runtimeconfig.json
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\bin\Debug\netcoreapp3.1\Study03.runtimeconfig.dev.json
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\bin\Debug\netcoreapp3.1\Study03.dll
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\bin\Debug\netcoreapp3.1\Study03.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03.csprojAssemblyReference.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03_MarkupCompile.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03_MarkupCompile.lref
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03.g.resources
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03.AssemblyInfoInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03.AssemblyInfo.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03.csproj.CoreCompileInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03.dll
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF Study\Study03\obj\Debug\netcoreapp3.1\Study03.genruntimeconfig.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\bin\Debug\netcoreapp3.1\Study03.exe
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\bin\Debug\netcoreapp3.1\Study03.deps.json
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\bin\Debug\netcoreapp3.1\Study03.runtimeconfig.json
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\bin\Debug\netcoreapp3.1\Study03.runtimeconfig.dev.json
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\bin\Debug\netcoreapp3.1\Study03.dll
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\bin\Debug\netcoreapp3.1\Study03.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03.csprojAssemblyReference.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03_MarkupCompile.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03_MarkupCompile.lref
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03.g.resources
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03.AssemblyInfoInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03.AssemblyInfo.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03.csproj.CoreCompileInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03.dll
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\AngelSix\Study03\obj\Debug\netcoreapp3.1\Study03.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\bin\Debug\ch01_01.exe.config
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\bin\Debug\ch01_01.exe
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\bin\Debug\ch01_01.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01.csprojAssemblyReference.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\MainWindow.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\App.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01_MarkupCompile.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01_MarkupCompile.lref
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\MainWindow.baml
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01.g.resources
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01.Properties.Resources.resources
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01.csproj.GenerateResource.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01.csproj.CoreCompileInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01.exe
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\ch01_01.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\ITdongSchool\wpf_part2\ch01_01\obj\Debug\GeneratedInternalTypeHelper.g.cs
