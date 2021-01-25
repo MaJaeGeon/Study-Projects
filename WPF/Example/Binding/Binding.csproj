@@ -55,8 +55,14 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ElementBinding.xaml.cs">
+      <DependentUpon>ElementBinding.xaml</DependentUpon>
+    </Compile>
     <Compile Include="StaticResourceBinding.xaml.cs">
       <DependentUpon>StaticResourceBinding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ValueConverter.xaml.cs">
+      <DependentUpon>ValueConverter.xaml</DependentUpon>
     </Compile>
     <Page Include="DataContextBinding.xaml">
       <SubType>Designer</SubType>
@@ -69,7 +75,15 @@
     <Compile Include="DataContextBinding.xaml.cs">
       <DependentUpon>DataContextBinding.xaml</DependentUpon>
     </Compile>
+    <Page Include="ElementBinding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="StaticResourceBinding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ValueConverter.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

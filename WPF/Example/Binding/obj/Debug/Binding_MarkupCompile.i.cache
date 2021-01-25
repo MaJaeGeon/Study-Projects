@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\App.xaml
-2685370605
+4427710139
 
-8-2030987358
+101458803979
 13-1505183044
-DataContextBinding.xaml;StaticResourceBinding.xaml;
+DataContextBinding.xaml;ElementBinding.xaml;StaticResourceBinding.xaml;ValueConverter.xaml;
 
 True
 
