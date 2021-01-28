@@ -20,3 +20,7 @@ C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\obj\Debug\Ele
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\obj\Debug\StaticResourceBinding.baml
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\obj\Debug\ValueConverter.g.cs
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\obj\Debug\ValueConverter.baml
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\obj\Debug\ExceptionValidationRule.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\obj\Debug\StringFormat.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\obj\Debug\ExceptionValidationRule.baml
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Binding\obj\Debug\StringFormat.baml

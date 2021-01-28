@@ -1,0 +1,20 @@
+﻿<Window x:Class="Binding.StringFormat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Binding"
+        xmlns:system="clr-namespace:System;assembly=mscorlib"
+        mc:Ignorable="d"
+        Title="StringFormat" Height="350" Width="300" Name="Window">
+    <StackPanel Margin="10">
+        <TextBlock Text="{Binding Source={x:Static system:DateTime.Now}, StringFormat=Date : {0:HH:mm:ss} }"/>
+
+        <TextBlock Text="{Binding Source={x:Static system:DateTime.Now}, ConverterCulture='ko-KR', StringFormat=KOR : {0:D} }"/>
+
+        <TextBlock Text="{Binding Source={x:Static system:DateTime.Now}, ConverterCulture='en-US', StringFormat=USA : {0:D} }"/>
+
+        <!--String Format의 제일앞에 아무것도없을때는 {} 붙여줘야됨. -->
+        <TextBlock Text="{Binding ElementName=Window, Path=Width, StringFormat={}{0:#,##0} }"/>
+    </StackPanel>
+</Window>

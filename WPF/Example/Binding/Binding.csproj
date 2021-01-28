@@ -58,8 +58,14 @@
     <Compile Include="ElementBinding.xaml.cs">
       <DependentUpon>ElementBinding.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ExceptionValidationRule.xaml.cs">
+      <DependentUpon>ExceptionValidationRule.xaml</DependentUpon>
+    </Compile>
     <Compile Include="StaticResourceBinding.xaml.cs">
       <DependentUpon>StaticResourceBinding.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="StringFormat.xaml.cs">
+      <DependentUpon>StringFormat.xaml</DependentUpon>
     </Compile>
     <Compile Include="ValueConverter.xaml.cs">
       <DependentUpon>ValueConverter.xaml</DependentUpon>
@@ -79,7 +85,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="ExceptionValidationRule.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="StaticResourceBinding.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="StringFormat.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
