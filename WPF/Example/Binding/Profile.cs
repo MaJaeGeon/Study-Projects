@@ -11,5 +11,10 @@ namespace Binding
         public string   Name    { get; set; }
         public int      Age     { get; set; }
         public DateTime Birth   { get; set; }
+
+        public override string ToString()
+        {
+            return string.Format("이름 : {0}, 나이 : {1}, 생일 : {2}", Name, Age, Birth);
+        }
     }
 }
