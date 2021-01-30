@@ -1,0 +1,34 @@
+﻿<Window x:Class="DataTemplate.PublicTemplate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataTemplate"
+        mc:Ignorable="d"
+        Title="PublicTemplate" Height="350" Width="300">
+    <Window.Resources>
+        <local:ProfileList x:Key="profileList">
+            <local:Profile Name="신형만" Age="10" Birth="2000-05-17" />
+            <local:Profile Name="신짱구" Age="12" Birth="2001-06-18" />
+            <local:Profile Name="신짱아" Age="14" Birth="2002-07-19" />
+            <local:Profile Name="봉미선" Age="15" Birth="2003-08-20" />
+        </local:ProfileList>
+
+        <DataTemplate DataType="{x:Type local:Profile}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+
+                <Image Grid.Column="0" Height="50px" Source="http://st3.depositphotos.com/15648834/17930/v/600/depositphotos_179308454-stock-illustration-unknown-person-silhouette-glasses-profile.jpg"/>
+                <TextBlock Grid.Column="1" Text="{Binding Path=Name}" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                <Button Grid.Column="2" Content="Click" Padding="20 0"/>
+            </Grid>
+        </DataTemplate>
+    </Window.Resources>
+
+    <ListBox ItemsSource="{StaticResource profileList}" HorizontalContentAlignment="Stretch">
+    </ListBox>
+</Window>
