@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding", "Binding\Binding.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTemplate", "DataTemplate\DataTemplate.csproj", "{AA1490CB-F8F6-4141-BF4E-46BFF52D9EA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableCollection", "ObservableCollection\ObservableCollection.csproj", "{EF4B0BB3-202F-45FE-9394-436331C24EB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AA1490CB-F8F6-4141-BF4E-46BFF52D9EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA1490CB-F8F6-4141-BF4E-46BFF52D9EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA1490CB-F8F6-4141-BF4E-46BFF52D9EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4B0BB3-202F-45FE-9394-436331C24EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4B0BB3-202F-45FE-9394-436331C24EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4B0BB3-202F-45FE-9394-436331C24EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4B0BB3-202F-45FE-9394-436331C24EB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
