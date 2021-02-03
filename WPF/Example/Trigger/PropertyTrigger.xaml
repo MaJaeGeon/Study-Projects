@@ -1,0 +1,25 @@
+﻿<Window x:Class="Trigger.PropertyTrigger"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Trigger"
+        mc:Ignorable="d"
+        Title="PropertyTrigger" Height="450" Width="800">
+    <Grid>
+        <Grid.Resources>
+            <Style TargetType="TextBlock">
+                <Setter Property="Foreground" Value="Gold"/>
+                <Setter Property="FontSize" Value="28"/>
+
+                <Style.Triggers>
+                    <Trigger Property="IsMouseOver" Value="True">
+                        <Setter Property="Foreground" Value="Red"/>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+        </Grid.Resources>
+
+        <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="Hello, World!"/>
+    </Grid>
+</Window>

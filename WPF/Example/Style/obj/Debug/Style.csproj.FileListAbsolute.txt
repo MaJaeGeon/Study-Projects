@@ -14,7 +14,6 @@ C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Style\obj\Debug\Style
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Style\obj\Debug\Style.csproj.GenerateResource.cache
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Style\obj\Debug\Style.csproj.CoreCompileInputs.cache
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Style\obj\Debug\AppStyle.g.cs
-C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Style\obj\Debug\Trigger.g.cs
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Style\obj\Debug\WindowStyle.g.cs
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Style\obj\Debug\App.baml
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Style\obj\Debug\AppStyle.baml

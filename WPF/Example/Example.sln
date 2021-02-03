@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableCollection", "Obs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Style", "Style\Style.csproj", "{470A368F-E39B-426D-8F4A-7E107E8E07B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trigger", "Trigger\Trigger.csproj", "{EB43416B-1FCE-423F-88C4-2FD21B0AED84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{470A368F-E39B-426D-8F4A-7E107E8E07B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{470A368F-E39B-426D-8F4A-7E107E8E07B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{470A368F-E39B-426D-8F4A-7E107E8E07B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB43416B-1FCE-423F-88C4-2FD21B0AED84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB43416B-1FCE-423F-88C4-2FD21B0AED84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB43416B-1FCE-423F-88C4-2FD21B0AED84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB43416B-1FCE-423F-88C4-2FD21B0AED84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
