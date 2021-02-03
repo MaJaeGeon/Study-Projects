@@ -1,0 +1,16 @@
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\bin\Debug\ObservableCollection.exe.config
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\bin\Debug\ObservableCollection.exe
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\bin\Debug\ObservableCollection.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection.csprojAssemblyReference.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\MainWindow.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\App.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection_MarkupCompile.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection_MarkupCompile.lref
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\MainWindow.baml
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection.g.resources
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection.Properties.Resources.resources
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection.csproj.GenerateResource.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection.exe
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\ObservableCollection\obj\Debug\ObservableCollection.pdb

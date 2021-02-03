@@ -24,5 +24,12 @@ namespace ObservableCollection
         {
             InitializeComponent();
         }
+
+        private void btn_Add_Click(object sender, RoutedEventArgs e)
+        {
+            ProfileList profileList = (ProfileList)FindResource("profileList");
+
+            profileList.Add(new Profile { Name = tb_Name.Text, Age = int.Parse(tb_Age.Text), Birth = DateTime.ParseExact(tb_Birth.Text, "yyyy-MM-dd", null) });
+        }
     }
 }

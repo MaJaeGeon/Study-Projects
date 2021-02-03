@@ -5,8 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ObservableCollection"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="MainWindow" Height="350" Width="300">
+    <Window.Resources>
+        <local:ProfileList x:Key="profileList">
+            <local:Profile Name="신형만" Age="10" Birth="2000-05-17" />
+            <local:Profile Name="신짱구" Age="12" Birth="2001-06-18" />
+            <local:Profile Name="신짱아" Age="14" Birth="2002-07-19" />
+            <local:Profile Name="봉미선" Age="15" Birth="2003-08-20" />
+        </local:ProfileList>
+    </Window.Resources>
+    <StackPanel DataContext="{StaticResource profileList}">
+        <ListBox Height="200" ItemsSource="{Binding}" IsSynchronizedWithCurrentItem="True">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Name}"></TextBlock>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <TextBox x:Name="tb_Name" Text="{Binding Path=Name}"></TextBox>
+        <TextBox x:Name="tb_Age" Text="{Binding Path=Age}"></TextBox>
+        <TextBox x:Name="tb_Birth" Text="{Binding Path=Birth}"></TextBox>
+        <Button Content="Add" Click="btn_Add_Click"></Button>
+    </StackPanel>
 </Window>
