@@ -19,3 +19,5 @@ C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Trigger\obj\Debug\Eve
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Trigger\obj\Debug\EventTrigger.baml
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Trigger\obj\Debug\MultiTrigger.g.cs
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Trigger\obj\Debug\MultiTrigger.baml
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Trigger\obj\Debug\MultiDataTrigger.g.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Trigger\obj\Debug\MultiDataTrigger.baml

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\akwor\Documents\GitHub\Study-Projects\WPF\Example\Trigger\App.xaml
-41743756638
+531906587
 
-8611536811
+9730137899
 13-1505183044
-DataTrigger.xaml;EventTrigger.xaml;MultiTrigger.xaml;PropertyTrigger.xaml;
+DataTrigger.xaml;EventTrigger.xaml;MultiDataTrigger.xaml;MultiTrigger.xaml;PropertyTrigger.xaml;
 
 False
 

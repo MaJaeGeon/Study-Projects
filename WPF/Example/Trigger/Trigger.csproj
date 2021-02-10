@@ -65,6 +65,9 @@
     <Compile Include="EventTrigger.xaml.cs">
       <DependentUpon>EventTrigger.xaml</DependentUpon>
     </Compile>
+    <Compile Include="MultiDataTrigger.xaml.cs">
+      <DependentUpon>MultiDataTrigger.xaml</DependentUpon>
+    </Compile>
     <Compile Include="MultiTrigger.xaml.cs">
       <DependentUpon>MultiTrigger.xaml</DependentUpon>
     </Compile>
@@ -104,6 +107,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="EventTrigger.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MultiDataTrigger.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
