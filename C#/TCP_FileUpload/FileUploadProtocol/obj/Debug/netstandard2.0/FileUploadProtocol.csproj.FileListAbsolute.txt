@@ -1,0 +1,9 @@
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\bin\Debug\netstandard2.0\FileUploadProtocol.deps.json
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\bin\Debug\netstandard2.0\FileUploadProtocol.dll
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\bin\Debug\netstandard2.0\FileUploadProtocol.pdb
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\obj\Debug\netstandard2.0\FileUploadProtocol.csprojAssemblyReference.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\obj\Debug\netstandard2.0\FileUploadProtocol.AssemblyInfoInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\obj\Debug\netstandard2.0\FileUploadProtocol.AssemblyInfo.cs
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\obj\Debug\netstandard2.0\FileUploadProtocol.csproj.CoreCompileInputs.cache
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\obj\Debug\netstandard2.0\FileUploadProtocol.dll
+C:\Users\akwor\Documents\GitHub\Study-Projects\C#\TCP_FileUpload\FileUploadProtocol\obj\Debug\netstandard2.0\FileUploadProtocol.pdb
