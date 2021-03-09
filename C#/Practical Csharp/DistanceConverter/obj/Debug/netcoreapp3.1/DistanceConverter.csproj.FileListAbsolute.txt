@@ -1,0 +1,13 @@
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.exe
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.deps.json
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.runtimeconfig.json
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.runtimeconfig.dev.json
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.dll
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\bin\Debug\netcoreapp3.1\DistanceConverter.pdb
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.csprojAssemblyReference.cache
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.AssemblyInfoInputs.cache
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.AssemblyInfo.cs
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.csproj.CoreCompileInputs.cache
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.dll
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.pdb
+C:\Users\akwor\source\repos\Practical Csharp\DistanceConverter\obj\Debug\netcoreapp3.1\DistanceConverter.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\bin\Debug\netcoreapp3.1\SalesCalculator.exe
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\bin\Debug\netcoreapp3.1\SalesCalculator.deps.json
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\bin\Debug\netcoreapp3.1\SalesCalculator.runtimeconfig.json
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\bin\Debug\netcoreapp3.1\SalesCalculator.runtimeconfig.dev.json
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\bin\Debug\netcoreapp3.1\SalesCalculator.dll
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\bin\Debug\netcoreapp3.1\SalesCalculator.pdb
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\obj\Debug\netcoreapp3.1\SalesCalculator.csprojAssemblyReference.cache
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\obj\Debug\netcoreapp3.1\SalesCalculator.AssemblyInfoInputs.cache
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\obj\Debug\netcoreapp3.1\SalesCalculator.AssemblyInfo.cs
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\obj\Debug\netcoreapp3.1\SalesCalculator.csproj.CoreCompileInputs.cache
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\obj\Debug\netcoreapp3.1\SalesCalculator.dll
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\obj\Debug\netcoreapp3.1\SalesCalculator.pdb
+C:\Users\akwor\source\repos\Practical Csharp\SalesCalculator\obj\Debug\netcoreapp3.1\SalesCalculator.genruntimeconfig.cache
