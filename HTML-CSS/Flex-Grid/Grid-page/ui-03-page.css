@@ -1,0 +1,144 @@
+.header {
+    display: flex;
+    align-items: center;
+    height: 80px;
+    padding: 0 1rem;
+}
+
+.search-form {
+    margin-left: auto;
+    margin-right: 3rem;
+}
+
+.primary {
+    padding: 1rem;
+}
+
+.secondary {
+    padding:  1rem;
+}
+
+.secondary-a {
+    background-color: white;
+}
+
+.secondary-b {
+    background-color: #666;
+    color: white;
+}
+
+.footer {
+    padding: 1rem;
+    text-align: center;
+}
+
+.modal {
+    display: none;
+    top: 80px;
+}
+
+#modal-switch {
+    font-size: 2rem;
+}
+
+#modal-switch:checked + .modal {
+    display: flex;
+}
+
+label[for="modal-switch"] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 1.3rem;
+    right: 1rem;
+    width: 40px;
+    height: 40px;
+}
+label[for="modal-switch"]:before {
+    content: "✉";
+    font-size: 2rem;
+}
+
+#modal-switch, label[for="modal-switch"] span {
+    overflow: hidden;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    top: 0;
+}
+
+@media(min-width: 1024px)
+{
+    .page {
+        display: grid;
+        grid-template-columns: 20% 1fr 20%;
+        grid-template-areas: 
+        'header         header      header'
+        ' menu          menu        menu '
+        'secondary-a    primary     secondary-b'
+        'footer         footer      footer'
+        ;
+    }
+
+    .header {
+        grid-area: header;
+    }
+
+    .menu {
+        grid-area: menu;
+    }
+
+    .primary {
+        grid-area: primary;
+    }
+
+    .secondary-a {
+        grid-area: secondary-a;
+    }
+
+    .secondary-b {
+        grid-area: secondary-b;
+    }
+
+    .footer {
+        grid-area: footer;
+    }
+}
+
+@media(min-width: 1400px)
+{
+    .page {
+        display: grid;
+        grid-template-columns: 300px 1fr 300px;
+    }
+}
+
+
+/* card list */
+.card-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, auto));
+    gap: 2%;
+}
+
+.card-item {
+    flex-direction: column;
+    margin-bottom: 2rem;
+}
+
+.card-image {
+    height: 0;
+    padding-bottom: 60%;
+    background-color: lightgray;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.card-desc {
+    flex: 1 1 auto;
+    padding: 1em;
+    background-color: white;
+}
